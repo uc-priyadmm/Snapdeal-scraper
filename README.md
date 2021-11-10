@@ -5,7 +5,7 @@ Snapdeal Webscraper using BeautifulSoup for Scripting class.
 
 
 
-  ![](2.gif)
+  ![](demo.gif)
   
   
   
