@@ -1,12 +1,8 @@
 # Snapdeal-scraper
 Snapdeal Webscraper using BeautifulSoup for Scripting class.
 
-## Demo
+Displays Product name , URL , Image URl etc
 
-
-
-  ![](demo.gif)
-  
   
   
 ## SCREENSHOT
